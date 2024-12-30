@@ -16,8 +16,7 @@ Notepad is a complex note-taking app inspired by @codewithantonio. This project 
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/notepad-notionclone.git
-    cd notepad-notionclone
+    git clone https://github.com/yourusername/Notepad.git
     ```
 
 2. Install dependencies:
@@ -36,6 +35,7 @@ Notepad is a complex note-taking app inspired by @codewithantonio. This project 
     ```
 
 2. Open your browser and navigate to  to see the app in action.
+    Use http://localhost:3000/
 
 ### Building for Production
 1. Build the project:
@@ -68,5 +68,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-otieno-12477533b/)
 
 ---
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
