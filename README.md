@@ -1,6 +1,6 @@
 # Notepad - A Notion Clone
 
-Notepad is a complex note-taking app inspired by @codewithantonio. This project is built using Next.js 15, TypeScript, and Shadcn-UI.
+Notepad is a complex note-taking app inspired by @[codewithantonio](https://www.youtube.com/@codewithantonio). This project is built using Next.js 15, TypeScript, and Shadcn-UI.
 
 ## Features
 - Light and Dark mode support
@@ -55,7 +55,7 @@ Notepad is a complex note-taking app inspired by @codewithantonio. This project 
 This project is licensed under the MIT License.
 
 ## Acknowledgements
-- Inspired by @codewithantonio
+- Inspired by @[codewithantonio](https://www.youtube.com/@codewithantonio)
 - Built with Next.js, TypeScript, and Shadcn-UI
 
 ## Connect with Me
