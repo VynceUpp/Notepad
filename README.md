@@ -15,7 +15,7 @@ Notepad is a complex note-taking app inspired by @[codewithantonio](https://www.
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/notepad-notionclone.git
+    git clone https://github.com/yourusername/Notepad.git
     cd notepad-notionclone
     ```
 
