@@ -4,17 +4,8 @@ Notepad is a complex note-taking app inspired by @codewithantonio. This project 
 
 ## Features
 - Light and Dark mode support with custom logos
-- Customizable themes
 - Responsive design
-- Rich text editing
-- Markdown support
 
-## Project Structure
-- `public/logo.svg`: Light mode logo
-- `public/logo-dark.svg`: Dark mode logo
-- `app/layout.tsx`: Layout component with Poppins font integration and theme provider
-- `app/footer.tsx`: Footer component with links to Privacy Policy, Terms & Conditions, and VynceUpp GitHub profile
-- `lib/utils.ts`: Utility functions for class name merging
 
 ## Getting Started
 
